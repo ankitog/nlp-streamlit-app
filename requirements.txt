@@ -79,7 +79,7 @@ six==1.15.0
 spacy==2.3.2
 spacy-streamlit==0.0.2
 srsly==1.0.2
-streamlit==0.63.1
+streamlit==1.11.1
 terminado==0.8.3
 testpath==0.4.4
 thinc==7.4.1
